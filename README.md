@@ -37,4 +37,4 @@ This project successfully developed a machine learning-based fraud detection sys
 By leveraging advanced analytics and machine learning, organizations can enhance their fraud prevention strategies and mitigate financial risks effectively.
 
 
-- P.S The foundational code for this project was provided by the professor, and my primary task involved refining the code and adapting it to achieve the desired outputs.
+P.S The foundational code for this project was provided by the professor, and my primary task involved refining the code and adapting it to achieve the desired outputs.
